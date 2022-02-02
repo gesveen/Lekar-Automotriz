@@ -1,0 +1,12 @@
+Orden Ejecución Macro Mercado Libre
+
+1) reduccionBD
+2) copiarItem
+3) copiarNombre
+4) extraerVoltaje
+5) extraerDientes
+6) extraerRotacion
+7) concatenarmax
+8) copiarNombreML
+9) copiarSkuML
+10) copiarCantidadML
