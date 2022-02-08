@@ -1,4 +1,4 @@
-Orden Ejecución Macro Mercado Libre
+Orden Ejecución Macro Libro "Arranques-Mercado-LibreVba"
 
 1) reduccionBD
 2) copiarItem
@@ -10,3 +10,26 @@ Orden Ejecución Macro Mercado Libre
 8) copiarNombreML
 9) copiarSkuML
 10) copiarCantidadML
+11) asignarPrecioML
+12) condicionML
+13) numeroPiezaML
+14) descripcionML
+15) costoEnvioML
+16) retiroEnPersonaML
+17) tipoGarantiaML
+18) tiempoGarantiaML
+19) unidadTiempoGarantiaML
+20) marcaML
+21) copiarDientesML
+22) copiarSentidoRotacionML
+23) copiarUnidadVoltajeML
+24) fotosML
+
+Orden Ejecución Macro Libro "Arranques-Mercado-LibreVba"
+
+1) LoopThroughFiles() (módulo 2)
+1) sacarCod (módulo 2)
+2) juntarLinks (módulo 1)
+3) listarImgsLinks (módulo 1)
+4) noLink (módulo 1)
+5) noPC (módulo 1)
